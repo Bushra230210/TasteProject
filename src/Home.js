@@ -8,6 +8,8 @@ export default class Home extends React.Component{
         return(
             <div>
                 <h1>home Component</h1>
+                <h2>welcome</h2>
+                <h3>customeras</h3>
             </div>
         )
     }
